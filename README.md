@@ -12,7 +12,7 @@ It implements **both encryption and decryption** using the classical Vigenère c
 - Input: Plaintext and key  
 - Output: Encrypted text (or decrypted text)
 
-  ### 3. Quadratic Roots (`quadratic-roots/`)
+### 2. Quadratic Roots (`quadratic-roots/`)
 - Parses a quadratic equation string and computes roots.  
 - Handles invalid input gracefully with error messages.
 
